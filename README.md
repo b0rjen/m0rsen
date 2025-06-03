@@ -36,7 +36,7 @@ pip install streamlit
 Simplemente ejecuta el siguiente comando en tu terminal dentro del directorio del proyecto:
 
 ```bash
-streamlit run m0rsen.py
+streamlit run app.py
 ```
 
 ---
